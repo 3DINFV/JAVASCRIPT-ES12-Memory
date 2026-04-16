@@ -1,0 +1,12 @@
+.caselle{
+    width: 100px;
+    height: 100px;
+    border: 1px solid blue;
+    display: inline-block;
+    margin: 5px;
+    background-image: url("../img/retro.jpg");
+}
+
+.disabled-click{
+    pointer-events: none;
+}
